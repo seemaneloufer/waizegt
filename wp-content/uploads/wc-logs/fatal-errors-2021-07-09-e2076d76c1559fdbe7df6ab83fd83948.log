@@ -1,0 +1,96 @@
+2021-07-09T02:43:07+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(670): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(58): activate_plugin('wp2static-addon...', 'https://localho...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:43:11+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:43:13+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:43:23+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(670): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(58): activate_plugin('wp2static-addon...', 'https://localho...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:43:24+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:43:24+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:05+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(670): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(58): activate_plugin('wp2static-addon...', 'https://localho...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:08+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:09+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:14+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(670): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(58): activate_plugin('wp2static-addon...', 'https://localho...', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:15+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
+2021-07-09T02:45:16+00:00 CRITICAL Uncaught Error: Class 'WP2StaticNetlify\Controller' not found in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php:27
+Stack trace:
+#0 C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php(41): run_wp2static_addon_netlify()
+#1 C:\xampp\htdocs\waizegt\wp-admin\includes\plugin.php(2300): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\waizegt\wp-admin\plugins.php(191): plugin_sandbox_scrape('wp2static-addon...')
+#3 {main}
+  thrown in C:\xampp\htdocs\waizegt\wp-content\plugins\wp2static-addon-netlify-1.0.1\wp2static-addon-netlify.php on line 27
+
